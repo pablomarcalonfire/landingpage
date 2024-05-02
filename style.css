@@ -1,6 +1,6 @@
 body {
 
-    background-image: url('/background.jpg');
+    background-image: url('background.jpg');
     background-size: cover;
     margin: 0;
     width: 100vw;
@@ -28,7 +28,7 @@ body {
     flex-direction: column-reverse;
     width: 200px;
     height: 200px;
-    background-image: url('/borda.png');
+    background-image: url('borda.png');
 }
 
 #quadro {
